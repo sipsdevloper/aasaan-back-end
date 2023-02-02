@@ -4,7 +4,7 @@ const sql = require("mssql");
     const config = {
         user: 'sipsapp',
         password: 's|psApp',
-        server: '192.168.1.158', 
+        server: '1.6.10.122', 
         database: 'VTS',
         options: { encrypt: false }
     };
